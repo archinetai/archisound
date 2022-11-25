@@ -3,6 +3,7 @@
 
 A collection of pre-trained audio models in PyTorch from [`audio-encoders-pytorch`](https://github.com/archinetai/audio-encoders-pytorch) and [`audio-diffusion-pytorch`](https://github.com/archinetai/audio-diffusion-pytorch).
 
+## Install
 ```bash
 pip install archisound
 ```
