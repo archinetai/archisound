@@ -29,7 +29,7 @@ pip install archisound
   | Info  | |
   | ------------- | ------------- |
   | Input type | Audio (stereo @ 48kHz) |
-  | Number of parameters  | - |
+  | Number of parameters  | 86M |
   | Compression Factor | 32x |
   | Downsampling Factor | 512x |
   | Bottleneck Type | Tanh |
@@ -53,7 +53,7 @@ pip install archisound
   | Info  | |
   | ------------- | ------------- |
   | Input type | Audio (stereo @ 48kHz) |
-  | Number of parameters  | - |
+  | Number of parameters  | 185M |
   | Compression Factor | 64x |
   | Downsampling Factor | 1024x |
   | Bottleneck Type | Tanh |
